@@ -1,9 +1,9 @@
 {
- "build": 4,
+ "build": 5,
  "runtime": 1,
- "zip": "scout-update-4.zip",
- "size": 138160,
- "sha256": "beb89c24c2e727eb77f0baa51dfd7b864c5301feddc755db9c7ae9a9a07ebb22",
- "notes": "bug fixes",
+ "zip": "scout-update-5.zip",
+ "size": 139432,
+ "sha256": "0a70aadbb3b0ba4300fa3bf10c131a46201344592292ca77dae387fc004b3a1b",
+ "notes": "added new features",
  "date": "2026-10-12"
 }
